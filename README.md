@@ -1,7 +1,9 @@
 <h1 align="center">Improvado Back-end task</h1>
 
 
-<img src="http://www.w3.org/2000/svg" alt="Иконка Вконтакте" /> **`Программа позволяющая получить список друзей из ВКонтакте`**
+[![VK](https://img.shields.io/badge/-VK-0080B5?logo=vk&logoColor=&style=for-the-badge)](https://vk.com/)
+
+**`Программа позволяющая получить список друзей из ВКонтакте`**
 
 
 # Установка библиотек
