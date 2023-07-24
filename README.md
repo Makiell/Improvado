@@ -8,7 +8,7 @@
 # Авторизация
     Для работы программы необходимо получить токен.
     1. Перейдите на сайт 
-[dev.vk.com](https://dev.vk.com/)
+**[dev.vk.com](https://dev.vk.com/)**
 
     2. Нажмите кнопку "Управление"
 ![Image-alt](https://github.com/Makiell/Improvado/blob/main/images/2.png)
